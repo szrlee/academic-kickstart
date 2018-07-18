@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-07-18T18:00:00
+date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -30,7 +30,6 @@ weight = 5
 +++
 
 # Biography
-
 I started PhD in Machine Intelligence under Tencent-CUHK PhD Fellowship in fall 2018,
 where I am co-supervised by Tom Z.Q. Luo at Chinese University of Hong Kong in Shenzhen
 and Tong Zhang at Tencent AI Lab.
