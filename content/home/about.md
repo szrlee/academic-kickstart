@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Deep Reinforcement Learning and Control with its applications in game and robotics",
     "Self-supervised Learning",
-    "Interprebility and safety issues in Deep Learning"
+    "Interprebility and safety issues in Deep Learning",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
   ]
 
