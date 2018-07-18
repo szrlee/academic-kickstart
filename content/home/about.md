@@ -17,10 +17,10 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+<!-- [[education.courses]]
   course = "PhD Student in Machine Intelligence"
   institution = "Chinese University of Hong Kong, Shenzhen"
-  year = 2018-present
+  year = 2018 -->
 
 [[education.courses]]
   course = "Exchange student in CS Department"
@@ -30,7 +30,7 @@ weight = 5
 [[education.courses]]
   course = "BEng in Computer Science"
   institution = "Huazhong University of Science and Techonology"
-  year = 2013-2017
+  year = 2017
  
 +++
 
