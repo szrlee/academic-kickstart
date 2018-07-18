@@ -50,11 +50,11 @@ enableGitInfo = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Richard Yingru Li"
@@ -99,11 +99,11 @@ enableGitInfo = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 3
+  map = 0
   map_api_key = "pk.eyJ1Ijoic3pybGVlIiwiYSI6ImNqanF3ZTV2dzA0OGczcW1obWw2MTVianEifQ.LAvzCJvlYNsMU5vlGjsljw"
   latitude = "22.69046"
   longitude = "114.20535"
-  zoom = 16
+  zoom = 17
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
