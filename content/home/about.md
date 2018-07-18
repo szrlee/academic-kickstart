@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Exchange student in CS Department"
+  course = "Exchange in CS Department"
   institution = "Cornell University"
   year = 2017
 
