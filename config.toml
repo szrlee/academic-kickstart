@@ -99,10 +99,10 @@ enableGitInfo = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 3
+  map_api_key = "pk.eyJ1Ijoic3pybGVlIiwiYSI6ImNqanF3ZTV2dzA0OGczcW1obWw2MTVianEifQ.LAvzCJvlYNsMU5vlGjsljw"
+  latitude = "22.687845"
+  longitude = "114.209931"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -226,6 +226,11 @@ enableGitInfo = true
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/richardyrli"
+    
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
