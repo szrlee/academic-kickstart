@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://jovial-jones-9d53fb.netlify.com/* http://www.richardli.xyz/:splat 301!
