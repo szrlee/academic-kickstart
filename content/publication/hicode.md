@@ -1,6 +1,6 @@
 +++
 title = "Hidden Community Detection in Social Network"
-date = 2018-07-21T00:00:00
+date = 2018-01-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -23,7 +23,7 @@ publication_short = "In *Inf. Sci.*"
 
 # Abstract and optional shortened version.
 abstract = "This paper introduces a new graph-theoretical concept of hidden community for analysing complex networks, which contain both stronger or dominant communities and weak communities. The weak communities are termed as being with the hidden community structure if most of its members also belong to the stronger communities. We propose a meta-approach, namely HICODE (HIdden COmmunity DEtection), for identifying the hidden community structure as well as enhancing the detection of the dominant community structure. Extensive experiments on real-world networks are carried out and the obtained results demonstrate that HICODE outperforms several state-of-the-art community detection methods in terms of uncovering both the dominant and the hidden structure. Due to the difficulty of labeling all ground truth communities in real-world datasets, HICODE provides a promising technique to pinpoint the existing latent communities and uncover communities for which there is no ground truth. Our finding in this work is significant to detect hidden communities in complex social networks."
-abstract_short = ""
+abstract_short = "This paper introduces a new graph-theoretical concept of hidden community for analysing complex networks, which contain both stronger or dominant communities and weak communities. The weak communities are termed as being with the hidden community structure if most of its members also belong to the stronger communities..."
 
 # Featured image thumbnail (optional)
 image_preview = "hicode-demo.png"
@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["Social Network"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
