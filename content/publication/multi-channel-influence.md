@@ -43,7 +43,7 @@ projects = ["social-network"]
 tags = ["Social network analysis", "Hidden structure", "Social influence", "Machine Learning", "Bayesian Nerwork", "Graphical model"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "fils/papers/MultiChanLearn.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/social-influence-wide.png"
+image = "headers/social-influence-wide.jpg"
 caption = ""
 
 +++
