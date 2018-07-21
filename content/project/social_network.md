@@ -9,7 +9,7 @@ title = "Social Network"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "social_network.jpg"
+image_preview = "social-network.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/social_network_wide.jpg"
+image = "headers/social-network-wide.jpg"
 caption = ""
 
 +++
