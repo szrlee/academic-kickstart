@@ -43,7 +43,7 @@ projects = ["social-network"]
 tags = ["Social network analysis", "Hidden structure", "Social influence", "Machine Learning", "Bayesian Nerwork", "Graphical model"]
 
 # Links (optional).
-url_pdf = "fils/papers/MultiChanLearn.pdf"
+url_pdf = "files/papers/MultiChanLearn.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
