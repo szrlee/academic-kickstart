@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "hicode-demo.png"
+image = "header/hicode-demo-wide.png"
 caption = ""
 
 +++
