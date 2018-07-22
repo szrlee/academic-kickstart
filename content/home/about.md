@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Deep Reinforcement Learning and Control theory with its applications in game and robotics",
-    "Self-supervised Learning",
+    "Self-supervised Learning, Continual Learning and few-shot learning - generally the Aritificial General Intelligence",
     "Interprebility and safety issues rised in complex black-box models",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
   ]
