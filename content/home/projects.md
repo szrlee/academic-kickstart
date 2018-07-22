@@ -43,10 +43,10 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
+
 [[filter]]
   name = "social network"
-  tag = ".Social network"
+  tag = ".Social network analysis"
 
 +++
 
