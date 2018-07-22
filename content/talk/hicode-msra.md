@@ -13,8 +13,8 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "SJTU International Workshop"
-event_url = "https://www.cs.cornell.edu/events/sjtu-international-workshop"
+event = "Theory Group Seminar"
+event_url = "https://www.microsoft.com/en-us/research/group/msra-theory/"
 
 # Location of event.
 location = "Microsoft Research Asia, Beijing, CHina"
