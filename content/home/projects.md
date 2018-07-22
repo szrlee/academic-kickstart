@@ -45,8 +45,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "social network"
-  tag = ".Social network analysis"
+  name = "Social Network Analysis"
+  tag = ".social-network-analysis"
 
 +++
 
