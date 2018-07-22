@@ -43,12 +43,12 @@ projects = ["social-network"]
 tags = ["Social network analysis", "Hidden structure", "Clustering", "Data mining"]
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1016/j.ins.2017.10.019"
+url_pdf = "files/papers/Journal-InfoSci1801-HICODE.pdf"
 url_preprint = "https://arxiv.org/abs/1702.07462"
 url_code = "https://github.com/szrlee/HiCode"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "files/slides/talk-hicode-msra-1607.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -56,6 +56,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1016/j.ins.2017.10.019"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
