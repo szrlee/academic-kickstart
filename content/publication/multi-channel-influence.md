@@ -71,10 +71,10 @@ caption = ""
 
 +++
 $$
-\newcommand{\ChannelNum}{\ensuremath{l}}
-\newcommand{\NodeNum}{\ensuremath{n}}
-\newcommand{\EdgeNum}{\ensuremath{m}}
-\newcommand{\CascNum}{\ensuremath{M}}
+\newcommand{\ChannelNum}{{l}}
+\newcommand{\NodeNum}{{n}}
+\newcommand{\EdgeNum}{{m}}
+\newcommand{\CascNum}{{M}}
 $$
 
 Results show that under the network size of $\NodeNum$ and the node degree of $d$ with $\ChannelNum$ channels, the lower bound of sample complexity on Network Inference problem of some multi-channel models is $\Omega( d\log nl)$， which is proved with two different methods and is asymptotically equal to the resultof $\Omega( d\log n)$ for classical models since $l$ is always a constant. This complexity result indicates that introducing multi channel constraint do not increase the intrinsic complexity of solving network inference problems. Research also shows the influence function class under multi-channel independent cascade model are PAC learnable and the sample complexity is $\CascNum = \tilde{O}({\epsilon}^{-2}\NodeNum^3 \ChannelNum)$, which is not related to the number of the edges, much lower than the sample complexity of that under classical models. We finally give several solutions for network inference problem including frequency statistics, Maximum likelihood estimation and its sparsity version, which shows that introducing prior of multi-channel with \emph{noisy-or} combined effect help reduce the dimensionality of parameter space of influence model and improve the robustness of the algorithms. We also have proposed some potential models on continuous-times multi-channel influence behaviors and then consider modeling online dynamic networks as a future direction.
