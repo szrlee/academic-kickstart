@@ -38,5 +38,5 @@ I also collaborate closely with [Jing Shao](http://www.ee.cuhk.edu.hk/~jshao/) a
 I had great forture to be invited to Cornell University by [**John E. Hopcroft**](http://www.cs.cornell.edu/jeh/) for exchange study and research on community detection problem in social network in my undergrad time.
 I completed my B.Eng. in Computer Science from Huazhong University of Science and Techonology,
 where I did my thesis with [Kun He](http://faculty.hust.edu.cn/hekun/en/) and [John E. Hopcroft](http://www.cs.cornell.edu/jeh/) in learning multi-channel influence in networks.
-I previously interned at Microsoft Research Asia hosted by [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) and also at SenseTime Research hosted by [Dr. Jing Shao](http://www.ee.cuhk.edu.hk/~jshao/).
+I previously interned at Microsoft Research Asia hosted by [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) and also at SenseTime Research hosted by [Jing Shao](http://www.ee.cuhk.edu.hk/~jshao/).
 I am a member of Shaw College, CUHK.
