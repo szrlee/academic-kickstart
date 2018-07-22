@@ -40,7 +40,7 @@ projects = ["social-network"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["social-network-analysis", "hidden-structure", "social-influence", "machine-learning", "bayesian-network", "graphical-model", "PAC-learning", "maximum-likelihood"]
+tags = ["social-network-analysis", "hidden-structure", "social-influence", "machine-learning", "bayesian-network", "graphical-model", "PAC-learning", "maximum-likelihood", "noisy-or"]
 
 # Links (optional).
 url_pdf = "files/papers/Thesis-MultiChanLearn.pdf"
@@ -79,4 +79,4 @@ $$
 
 Results show that under the network size of $\NodeNum$ and the node degree of $d$ with $\ChannelNum$ channels, the lower bound of sample complexity on Network Inference problem of some multi-channel models is $\Omega( d\log nl)$, which is proved with two different methods and is asymptotically equal to the resultof $\Omega( d\log n)$ for classical models since $l$ is always a constant. This complexity result indicates that introducing multi channel constraint do not increase the intrinsic complexity of solving network inference problems. Research also shows the influence function class under multi-channel independent cascade model are PAC learnable and the sample complexity is $\CascNum = \tilde{O}({\epsilon}^{-2}\NodeNum^3 \ChannelNum)$, which is not related to the number of the edges, much lower than the sample complexity of that under classical models. We finally give several solutions for network inference problem including frequency statistics, Maximum likelihood estimation and its sparsity version, which shows that introducing prior of multi-channel with **noisy-or** combined effect help reduce the dimensionality of parameter space of influence model and improve the robustness of the algorithms. We also have proposed some potential models on continuous-times multi-channel influence behaviors and then consider modeling online dynamic networks as a future direction.
 
-We concluded with following statements: the **combined effect** can be effectively expressed using the \emph{Noisy or} non-linear model; considering multi channel phenomenon do not increase the intrinsic complexity of network inference problems and introducing the prior of multi channel with noisy-or combination can help reduce the complexity of learning influence functions.
+We concluded with following statements: the **combined effect** can be effectively expressed using the **noisy-or-like** non-linear model; considering multi channel phenomenon do not increase the intrinsic complexity of network inference problems and introducing the prior of multi channel with noisy-or combination can help reduce the complexity of learning influence functions.
