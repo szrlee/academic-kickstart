@@ -40,7 +40,7 @@ projects = ["social-network"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["social-network-analysis", "hidden-structure", "social-influence", "machine-learning", "bayesian-network", "graphical-model", "pac-learning", "maximum-likelihood"]
+tags = ["social-network-analysis", "hidden-structure", "social-influence", "machine-learning", "bayesian-network", "graphical-model", "PAC-learning", "maximum-likelihood"]
 
 # Links (optional).
 url_pdf = "files/papers/Thesis-MultiChanLearn.pdf"
