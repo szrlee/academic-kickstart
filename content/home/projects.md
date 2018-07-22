@@ -39,6 +39,11 @@ filter_default = 0
 # [[filter]]
 #   name = "Other"
 #   tag = ".demo"
+
+[[filter]]
+  name = "All"
+  tag = "*"
+  
 [[filter]]
   name = "social network"
   tag = ".Social network"
