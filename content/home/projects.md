@@ -39,6 +39,9 @@ filter_default = 0
 # [[filter]]
 #   name = "Other"
 #   tag = ".demo"
+[[filter]]
+  name = "social network"
+  tag = ".Social network"
 
 +++
 
