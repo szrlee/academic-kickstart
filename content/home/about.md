@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Online decision making under uncertain and complex environments"
+    "Online decision making under uncertain and complex environments",
     "Deep Reinforcement Learning and Control theory with its applications in game and robotics",
     "Self-supervised Learning, Continual Learning, few-shot learning and Meta-Learning",
     "Interpretability and safety issues raised in complex black-box models",
