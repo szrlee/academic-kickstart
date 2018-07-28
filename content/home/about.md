@@ -10,16 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Online decision making under uncertain and complex environments"
     "Deep Reinforcement Learning and Control theory with its applications in game and robotics",
-    "Self-supervised Learning, Continual Learning, few-shot learning and Meta-Learning : generally the Artificial General Intelligence",
+    "Self-supervised Learning, Continual Learning, few-shot learning and Meta-Learning",
     "Interpretability and safety issues raised in complex black-box models",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Exchange in CS Department"
-  institution = "Cornell University"
+  course = "Exchange student"
+  institution = "CS Department, Cornell University"
   year = 2017
 
 [[education.courses]]
