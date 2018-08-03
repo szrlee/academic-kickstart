@@ -6,7 +6,7 @@ date = 2018-07-21T00:00:00
 title = "Social Network"
 
 # Project summary to display on homepage.
-summary = "Investigating the static structure (Community) and dynamic processes (influence and information diffusion) in social network and uncovering their potential high social and economical values."
+summary = "Investigating the static structure (community) and dynamic processes (influence and information diffusion) in social network and uncovering their potential high social and economical values."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "social-network.jpg"
