@@ -32,6 +32,6 @@ Social network analysis is of highly interest by both the industry and academia
 due to the potential value hidden in the human connections in social network.
 Advertisement company can do accurate advertising via finding a certain interest group of people
 which raise the tremendous research and applications in **community detection**.
-On the other hand, uncovering the information and influence diffusion process is also of 
+On the other hand, uncovering the **information and influence diffusion** process is also of 
 great value since this could accelerate spread of certain product and even ideas among the populations.
 I spent few years studying these two classical problems: Uncovering the hidden community and Learning the pattern of influence propagation in social networks. Feel free to read the following works and any comments are welcome.
