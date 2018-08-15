@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Online decision making under uncertain and complex environments",
     "Deep Reinforcement Learning and Control theory with its applications in game and robotics",
-    "Self-supervised Learning, Continual Learning, few-shot learning and Meta-Learning",
+    "Self-supervised Learning, continual Learning, few-shot learning, meta-Learning and more generally artificial general intelligence",
     "Interpretability and safety issues raised in complex black-box models",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
   ]
@@ -31,7 +31,7 @@ weight = 5
 +++
 
 # Biography
-I started PhD in Machine Intelligence under Tencent-CUHK PhD Fellowship in fall 2018,
+I will start MPhil-PhD study in Machine Intelligence under Tencent-CUHK Fellowship in fall 2018,
 where I am co-supervised by
 [**Tong Zhang**](http://tongzhang-ml.org) at Tencent AI Lab and
 [**Tom Z.Q. Luo**](http://www.cuhk.edu.cn/en/node/659) at Chinese University of Hong Kong.
