@@ -34,7 +34,7 @@ weight = 5
 I will start MPhil-PhD study in Machine Intelligence under Tencent-CUHK Fellowship in fall 2018,
 where I am co-supervised by
 [**Tong Zhang**](http://tongzhang-ml.org) at Tencent AI Lab and
-[**Tom Z.Q. Luo**](http://www.cuhk.edu.cn/en/node/659) at Chinese University of Hong Kong.
+[**Tom Z.Q. Luo**](http://sse.cuhk.edu.cn/en/node/1423) at Chinese University of Hong Kong.
 I also collaborate closely with [Jing Shao](http://www.ee.cuhk.edu.hk/~jshao/) at SenseTime Research.
 I had great forture to be invited to Cornell University by [**John E. Hopcroft**](http://www.cs.cornell.edu/jeh/) for exchange study and research on community detection problem in social network in my undergrad time.
 I completed my B.Eng. in Computer Science from Huazhong University of Science and Technology,
