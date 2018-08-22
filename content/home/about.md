@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Online decision making under uncertain and complex environments",
-    "Deep Reinforcement Learning and Control theory with its applications in game and robotics",
-    "Self-supervised Learning, continual Learning, few-shot learning, meta-Learning and more generally artificial general intelligence",
+    "Deep Reinforcement Learning and control theory with its applications in game and robotics",
+    "Self-supervised Learning, continual Learning, few-shot learning, meta-learning and more generally artificial general intelligence",
     "Interpretability and safety issues raised in complex black-box models",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
   ]
