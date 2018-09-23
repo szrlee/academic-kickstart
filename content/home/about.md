@@ -36,9 +36,9 @@ where I am co-supervised by
 [**Tong Zhang**](http://tongzhang-ml.org) at Tencent AI Lab and
 [**Tom Z.Q. Luo**](http://sse.cuhk.edu.cn/en/node/1423) at Chinese University of Hong Kong, Shenzhen, China.
 I also collaborate closely with [Jing Shao](http://www.ee.cuhk.edu.hk/~jshao/) at SenseTime Research.
-I had great forture to be invited to Cornell University by [**John E. Hopcroft**](http://www.cs.cornell.edu/jeh/) for exchange study and research on community detection problem in social network in my undergrad time.
+I had great fortune to be invited to Cornell University by [**John E. Hopcroft**](http://www.cs.cornell.edu/jeh/) for exchange study and research on community detection problem in social network in my undergrad time.
 I completed my B.Eng. in Computer Science from Huazhong University of Science and Technology,
 where I did my thesis with [Kun He](http://faculty.hust.edu.cn/hekun/en/) and [John E. Hopcroft](http://www.cs.cornell.edu/jeh/) in learning multi-channel influence in networks.
 I previously interned at Microsoft Research Asia hosted by [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/).
-I am a member of Shaw College, CUHK.
+I am a member of Shaw College, CUHK, Shenzhen.
 Find more information about me in my [CV](files/Awesome_CV.pdf) or [previous pages](https://sites.google.com/view/yingru).
