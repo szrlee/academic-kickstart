@@ -9,7 +9,7 @@
 baseurl = "https://www.richardli.xyz/"
 
 # Title of your site
-title = "Carpe Noctem - Richard Yingru"
+title = "Homepage of Richard Yingru Li"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -63,17 +63,17 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Richard Yingru Li"
+  name = "(Richard) Yingru Li"
   role = "Ph.D. Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Chinese University of Hong Kong", url = "http://www.cuhk.edu.cn/en" }, { name = "Tencent AI Lab", url = "https://ai.tencent.com/ailab/index.html" } ]
+  organizations = [ { name = "The Chinese University of Hong Kong", url = "http://www.cuhk.edu.cn/en" }, { name = "Tencent AI Lab", url = "https://ai.tencent.com/ailab/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "LinkedIn-Yingru.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "szrlee@gmail.com"
-  address = "Chinese Unversity of Hong Kong, Shenzhen, China"
+  address = "The Chinese Unversity of Hong Kong, Shenzhen, China"
   office_hours = "email for appointment"
   phone = "086 130 0610 6862"
   skype = "live:szrlee"
