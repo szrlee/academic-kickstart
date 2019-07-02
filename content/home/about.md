@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Online decision making under uncertain and complex environments",
-    "Deep Reinforcement Learning and control theory with its applications in game and robotics",
+    "(Deep) Reinforcement Learning and control theory with its applications in game and robotics",
     "Self-supervised Learning, continual Learning, few-shot learning, meta-learning and more generally artificial general intelligence",
     "Interpretability and safety issues raised in complex black-box models",
     "Algorithms, Statistics and Optimization theory related to Learning Systems"
@@ -19,14 +19,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Exchange student"
+  course = "Exchange student and Independent RA"
   institution = "CS Department, Cornell University"
   year = 2017
 
 [[education.courses]]
   course = "B.Eng. in Computer Science"
   institution = "Huazhong University of Science and Technology"
-  year = 2017
  
 +++
 
